@@ -1,0 +1,93 @@
+{
+  "notes": [],
+  "targets": [
+    {
+      "content": "192.168.1.100 - web application lab",
+      "timestamp": "2026-06-10T22:46:54.453063"
+    },
+    {
+      "content": "doubleclick.net",
+      "timestamp": "2026-06-10T23:09:23.175446"
+    },
+    {
+      "content": "googlesyndication.com",
+      "timestamp": "2026-06-10T23:09:23.175446"
+    },
+    {
+      "content": "adnxs.com",
+      "timestamp": "2026-06-10T23:09:23.175446"
+    },
+    {
+      "content": "www.googleadservices.com",
+      "timestamp": "2026-06-12T01:07:13.295620"
+    },
+    {
+      "content": "googleads.g.doubleclick.net",
+      "timestamp": "2026-06-12T01:07:13.295620"
+    },
+    {
+      "content": "google.com",
+      "timestamp": "2026-06-12T01:07:13.295620"
+    },
+    {
+      "content": "192.168.45.101",
+      "timestamp": "2026-06-12T01:14:04.042614"
+    },
+    {
+      "content": "whatismyip.com",
+      "timestamp": "2026-06-12T01:19:00.479121"
+    },
+    {
+      "content": "71.239.44.98",
+      "timestamp": "2026-06-12T02:29:24.835715"
+    },
+    {
+      "content": "99.70.107.30",
+      "timestamp": "2026-06-12T02:46:12.824729"
+    },
+    {
+      "content": "example.com",
+      "timestamp": "2026-06-12T15:56:09.938260"
+    },
+    {
+      "content": "example.com",
+      "timestamp": "2026-06-12T15:56:09.938260"
+    },
+    {
+      "content": "ads.google.com",
+      "timestamp": "2026-06-14T04:20:20.397270"
+    },
+    {
+      "content": "adserver.yahoo.com",
+      "timestamp": "2026-06-14T04:20:20.397270"
+    },
+    {
+      "content": "analytics.google.com",
+      "timestamp": "2026-06-14T04:20:20.397270"
+    },
+    {
+      "content": "192.168.1.50",
+      "timestamp": "2026-06-15T21:12:34.711954"
+    },
+    {
+      "content": "192.168.1.50",
+      "timestamp": "2026-06-15T21:12:34.711954"
+    }
+  ],
+  "findings": [
+    {
+      "content": "Vulnerability: RCE",
+      "timestamp": "2026-06-10T23:09:23.175446"
+    },
+    {
+      "content": "Vulnerability: LFI",
+      "timestamp": "2026-06-10T23:09:23.175446"
+    },
+    {
+      "content": "Vulnerability: RFI",
+      "timestamp": "2026-06-10T23:33:29.605435"
+    }
+  ],
+  "context": [],
+  "corrections": []
+}
